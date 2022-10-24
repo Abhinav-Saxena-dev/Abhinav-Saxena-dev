@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav-saxena-dev&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="abhinav-saxena-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav-saxena-dev&show_icons=true&theme=cobalt&locale=en" alt="abhinav-saxena-dev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-saxena-dev&theme=highcontrast" alt="abhinav-saxena-dev" /></p>
