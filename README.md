@@ -3,9 +3,9 @@
 
 - 🎓 I’m a Pre Final Year student from **KIET Ghaziabad**
 
-- 💭 Want to have a converstaion? Say **Blockchain.**
-
 - 🧠 I’m currently learning **Blockchain**
+
+- 💭 Want to have a converstaion? Say **Java**
 
 - 🍻 I’m looking to collaborate on **WebDev or Blockchain projects.**
 
