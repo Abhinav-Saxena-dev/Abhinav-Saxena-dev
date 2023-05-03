@@ -5,7 +5,7 @@
 
 - 💭 Want to have a converstaion? Say **Blockchain.**
 
-- 🧠 I’m currently learning **Blockchain**
+- 🧠 I’m currently learning about **Open Source**
 
 - 🍻 I’m looking to collaborate on **WebDev or Blockchain projects.**
 
